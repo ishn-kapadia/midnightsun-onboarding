@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VBAT Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=VOUT Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Member To Class: ClassName=Schematic Member=Component J1 M20-9990246
+Added Member To Class: ClassName=Schematic Member=Component J2 M20-9990246
