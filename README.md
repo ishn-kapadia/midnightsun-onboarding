@@ -1,0 +1,1 @@
+Designed a two-layer buck converter PCB in Altium Designer for the Midnight Sun Solar Car Team’s hardware onboarding project, converting a 10–15 V DC input to a regulated lower-voltage output. Selected and sized components using datasheets, developed the circuit schematic, and completed PCB placement, routing, ground planes, and design-rule checks.
